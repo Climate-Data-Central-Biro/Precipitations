@@ -2,7 +2,7 @@
 
 Analizing data about climate changes for the main project [Climate Data Central Biro]
 
-This part is concerning just the part od **the impact of precipitations on Climate change on the globe.**
+This part is concerning just the part of **the impact of precipitations on Climate change on the globe.**
 
 ## Table Of Content <!-- omit in toc -->
 
