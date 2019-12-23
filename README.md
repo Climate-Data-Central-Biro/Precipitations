@@ -1,8 +1,14 @@
-# Climat Analysis
+# Climat Analysis <!-- omit in toc -->
 
 Analizing data about climate changes for the main project [Climate Data Central Biro]
 
 This part is concerning just the part od **the impact of precipitations on Climate change on the globe.**
+
+## Table Of Content <!-- omit in toc -->
+
+- [Rainfall Impact on Climate change on the globe](#rainfall-impact-on-climate-change-on-the-globe)
+  - [SPI - Standard precipitation index](#spi---standard-precipitation-index)
+- [References &amp; Datasets](#references-amp-datasets)
 
 ## Rainfall Impact on Climate change on the globe
 
@@ -12,8 +18,7 @@ The **Standardized Precipitation Index** (SPI; McKee 1993) is the number of stan
 
 To compute the index, a long-term time series of precipitation accumulations over the desired time scale are used to estimate an appropriate probability density function.
 
-<!-- References -->
-## References
+## References & Datasets
 
 [IRI Analyses SPI]  
 [Research Data Archive]  
