@@ -15,10 +15,12 @@ To compute the index, a long-term time series of precipitation accumulations ove
 <!-- References -->
 ## References
 
-[IRI Analyses SPI]
-[Research Data Archive]
+[IRI Analyses SPI]  
+[Research Data Archive]  
+[Climate Data Guide]  
 
 <!-- Links -->
 [Climate Data Central Biro]: https://github.com/Climate-Data-Central-Biro "Climate Data Central Biro"
 [IRI Analyses SPI]: http://iridl.ldeo.columbia.edu/SOURCES/.IRI/.Analyses/.SPI/ "IRI Analyses SPI"
 [Research Data Archive]: https://rda.ucar.edu/datasets/ds298.0/ "Research Data Archive SPI"
+[Climate Data Guide]: https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-index-spi "Climate Data Guide"
