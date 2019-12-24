@@ -1,4 +1,4 @@
-# Climat Analysis <!-- omit in toc -->
+# Climate Analysis <!-- omit in toc -->
 
 Analizing data about climate changes for the main project [Climate Data Central Biro]
 
