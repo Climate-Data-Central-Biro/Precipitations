@@ -20,6 +20,7 @@ To compute the index, a long-term time series of precipitation accumulations ove
 
 ## References & Datasets
 
+[ESRL Physical Sciences Division]: GPCC Precipitation data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at <https://www.esrl.noaa.gov/psd/>
 [IRI Analyses SPI]  
 [Research Data Archive]  
 [Climate Data Guide]  
@@ -33,3 +34,4 @@ To compute the index, a long-term time series of precipitation accumulations ove
 [Climate Data Guide]: https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-index-spi "Climate Data Guide"
 [NCEI Data Service API User Documentation]: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation "NCEI Data Service API User Documentation"
 [GES DISC NASA Earth Data]: https://disc.gsfc.nasa.gov/ "GES DISC NASA Earth Data"
+[ESRL Physical Sciences Division]: https://www.esrl.noaa.gov/psd/data/gridded/data.gpcc.html "ESRL Physical Sciences Division"
