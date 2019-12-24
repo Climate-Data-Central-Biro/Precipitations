@@ -2,7 +2,7 @@
 
 Analizing data about climate changes for the main project [Climate Data Central Biro]
 
-This part is concerning just the part of **the impact of precipitations on Climate change on the globe.**
+This repository is concerning just **the impact of precipitations on Climate change on the globe.**
 
 ## Table Of Content <!-- omit in toc -->
 
@@ -24,6 +24,7 @@ To compute the index, a long-term time series of precipitation accumulations ove
 [Research Data Archive]  
 [Climate Data Guide]  
 [NCEI Data Service API User Documentation]  
+[GES DISC NASA Earth Data]
 
 <!-- Links -->
 [Climate Data Central Biro]: https://github.com/Climate-Data-Central-Biro "Climate Data Central Biro"
@@ -31,3 +32,4 @@ To compute the index, a long-term time series of precipitation accumulations ove
 [Research Data Archive]: https://rda.ucar.edu/datasets/ds298.0/ "Research Data Archive SPI"
 [Climate Data Guide]: https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-index-spi "Climate Data Guide"
 [NCEI Data Service API User Documentation]: https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation "NCEI Data Service API User Documentation"
+[GES DISC NASA Earth Data]: https://disc.gsfc.nasa.gov/ "GES DISC NASA Earth Data"
