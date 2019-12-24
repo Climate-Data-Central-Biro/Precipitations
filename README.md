@@ -1,4 +1,4 @@
-# Climate Analysis <!-- omit in toc -->
+# Precipitations <!-- omit in toc -->
 
 Analizing data about climate changes for the main project [Climate Data Central Biro]
 
@@ -6,11 +6,11 @@ This part is concerning just the part of **the impact of precipitations on Clima
 
 ## Table Of Content <!-- omit in toc -->
 
-- [Rainfall Impact on Climate change on the globe](#rainfall-impact-on-climate-change-on-the-globe)
+- [Precipitations Impact on Climate change on the globe](#precipitations-impact-on-climate-change-on-the-globe)
   - [SPI - Standard Precipitation Index](#spi---standard-precipitation-index)
 - [References &amp; Datasets](#references-amp-datasets)
 
-## Rainfall Impact on Climate change on the globe
+## Precipitations Impact on Climate change on the globe
 
 ### SPI - Standard Precipitation Index
 
