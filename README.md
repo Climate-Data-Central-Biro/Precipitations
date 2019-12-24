@@ -20,7 +20,7 @@ To compute the index, a long-term time series of precipitation accumulations ove
 
 ## References & Datasets
 
-[ESRL Physical Sciences Division]: GPCC Precipitation data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at <https://www.esrl.noaa.gov/psd/>
+[ESRL Physical Sciences Division]: GPCC Precipitation data provided by the NOAA/OAR/ESRL PSD, Boulder, Colorado, USA, from their Web site at <https://www.esrl.noaa.gov/psd/>  
 [IRI Analyses SPI]  
 [Research Data Archive]  
 [Climate Data Guide]  
